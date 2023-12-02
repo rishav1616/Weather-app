@@ -1,0 +1,10 @@
+body {
+    background-image: url(clouds-hd-1366x768.jpg);
+    background-size: cover;
+}
+
+.othrcont {
+    background-color: aliceblue;
+    border-radius: 6px;
+    margin: 4px;
+}
